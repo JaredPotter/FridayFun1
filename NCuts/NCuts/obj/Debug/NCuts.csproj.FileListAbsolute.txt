@@ -1,0 +1,6 @@
+c:\users\potterj\documents\visual studio 2015\Projects\NCuts\NCuts\bin\Debug\NCuts.exe.config
+c:\users\potterj\documents\visual studio 2015\Projects\NCuts\NCuts\bin\Debug\NCuts.exe
+c:\users\potterj\documents\visual studio 2015\Projects\NCuts\NCuts\bin\Debug\NCuts.pdb
+c:\users\potterj\documents\visual studio 2015\Projects\NCuts\NCuts\obj\Debug\NCuts.csprojResolveAssemblyReference.cache
+c:\users\potterj\documents\visual studio 2015\Projects\NCuts\NCuts\obj\Debug\NCuts.exe
+c:\users\potterj\documents\visual studio 2015\Projects\NCuts\NCuts\obj\Debug\NCuts.pdb

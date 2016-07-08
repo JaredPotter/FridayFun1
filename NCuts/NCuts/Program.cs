@@ -7,7 +7,8 @@ namespace NCuts
         private static void Main(string[] args)
         {
             // Tests
-            for (int i = 0; i <= 100; i++)
+            int i = 0;
+            for (; i <= 100; i++)
             {
                 Console.WriteLine("StickLength: " + i + ", minimum cuts: " + minimumNumberOfCuts(i));
             }
@@ -18,34 +19,23 @@ namespace NCuts
         public static int minimumNumberOfCuts(int stickLength)
         {
             int cuts = 0;
-            bool lastCutOdd = false;
 
-            if (stickLength <= 1)
+            while (stickLength > 1)
             {
-                return cuts;
-            }
+                
 
-            while (stickLength != 1)
-            {
                 if (stickLength % 2 == 0)
                 {
                     // Even
                     stickLength = stickLength / 2;
-                    cuts++;
-                    lastCutOdd = false;
                 }
                 else
                 {
                     // Odd
-                    stickLength = stickLength / 2;
-                    cuts += 2; // accounts for odd numbers
-                    lastCutOdd = true;
+                    stickLength = (int)Math.Ceiling((double)stickLength / 2);
                 }
-            }
 
-            if (lastCutOdd)
-            {
-                cuts--;
+                cuts++;
             }
 
             return cuts;

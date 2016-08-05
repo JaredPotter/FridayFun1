@@ -1,0 +1,7 @@
+c:\users\larry256\documents\visual studio 2013\Projects\robot1\robot1\bin\Debug\robocode.dll
+c:\users\larry256\documents\visual studio 2013\Projects\robot1\robot1\bin\Debug\robocode.xml
+c:\users\larry256\documents\visual studio 2013\Projects\robot1\robot1\obj\Debug\robot1.csprojResolveAssemblyReference.cache
+c:\users\larry256\documents\visual studio 2013\Projects\robot1\robot1\bin\Debug\JRP.robot1.dll
+c:\users\larry256\documents\visual studio 2013\Projects\robot1\robot1\bin\Debug\JRP.robot1.pdb
+c:\users\larry256\documents\visual studio 2013\Projects\robot1\robot1\obj\Debug\JRP.robot1.dll
+c:\users\larry256\documents\visual studio 2013\Projects\robot1\robot1\obj\Debug\JRP.robot1.pdb
